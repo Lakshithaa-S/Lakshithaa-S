@@ -13,17 +13,29 @@ I'm passionate about frontend development, open-source collaboration, and buildi
 - **Tools:** Git, GitHub, VS Code
 - **Development Approach:** AI-Assisted Web Development
 
+
 ## 🚀 Featured Projects
 
-### PharmaVault — Smart Medicine Inventory System
-A medicine inventory management project featuring stock monitoring, expiry tracking, and inventory workflows.
+### 💊 RxClash | Prescription Overlap Detection
+**Health Tech Hackathon | In Development**
 
-🔗 [Live Demo](https://pharmavault-brown.vercel.app/)
+A healthcare web application designed to detect duplicate medicine ingredients and overlapping prescription periods, helping users identify potential medication conflicts.
 
-### Sentry — Predictive Maintenance Dashboard
-A predictive maintenance project exploring machine-condition monitoring, sensor data, and failure-risk alerts.
+### 🏭 Sentry | Predictive Maintenance
+**AI/ML Project**
 
-🔗 [Live Demo](https://sentryy-indol.vercel.app/)
+A predictive maintenance platform designed to analyze industrial sensor data, identify anomalies, and provide early machine-failure risk alerts through an interactive dashboard.
+
+### 💉 PharmaVault | Smart Medicine Inventory System
+**Inventory Management Project**
+
+A medicine inventory management system featuring batch tracking, FEFO-based dispensing, expiry monitoring, low-stock alerts, and automated reorder suggestions.
+
+### ⚡ ChargeSync | EV Charging Station Scheduler
+**Operating Systems Mini-Project**
+
+An EV charging scheduler designed to allocate limited chargers efficiently, manage waiting queues, and prevent conflicting allocations using scheduling and synchronization concepts.
+
 
 ## 🌟 Leadership & Activities
 - **PR Officer** — INNOV8 Club
